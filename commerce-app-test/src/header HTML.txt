@@ -1,0 +1,4 @@
+<div class="box">
+    <h1 class="text-center">Basma Online Store</h1>
+    <p class="text-center">In our Basma Online Store department we offer wide selection of the best products we have found and carefully selected worldwide.</p>
+</div>

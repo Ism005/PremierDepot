@@ -1,0 +1,38 @@
+/* Extra small devices (phones, 600px and down) */
+p { color: red;
+	 }
+
+@media only screen and (max-width: 600px) {
+	img {
+		border-radius: 50%;
+	}
+	body {
+		background: red;
+	}
+	p { color: red;
+	 }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+	p { color: blue;
+	 }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+	p { color: darkviolet;
+	 }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+	p { color: yellow;
+	 }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+	p { color: cadetblue;
+	 }
+	}
